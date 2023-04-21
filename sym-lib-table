@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name archive)(type Legacy)(uri "${KIPRJMOD}/P_sensor v10.0-archive.lib")(options "")(descr ""))
+  (lib (name P_sensor_v10.0-eagle-import)(type Legacy)(uri ${KIPRJMOD}/P_sensor_v10.0-eagle-import.lib)(options "")(descr "")(disabled))
+)

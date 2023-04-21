@@ -1,0 +1,105 @@
+02-12 19:31:38 archive_project.action_archive_project 101:Archive plugin version: 41 started
+02-12 19:31:40 archive_project.action_archive_project 157:Starting archiving only schematics
+02-12 19:31:40 archive_project.archive_project 188:Starting to archive symbols
+02-12 19:31:40 archive_project.archive_project 195:Pcb filename:/Users/jaimy/projects/panimpex_metreco/pcb/P_sensor v10.0/P_sensor v10.0.kicad_pcb
+02-12 19:31:40 archive_project.archive_project 207:Kicad config path: /Users/jaimy/Library/Preferences/kicad
+02-12 19:31:40 archive_project.archive_project 265:project-archive.lib is already in the sym-lib-table, using its nickname
+02-12 19:31:40 archive_project.archive_project 285:Project cache library does not exists!
+02-12 19:31:42 archive_project.action_archive_project 165:Action plugin exiting due to error in schematics archiving part
+02-12 19:31:42 archive_project.archive_project 130:Starting to archive worksheets
+02-12 19:31:42 archive_project.archive_project 144:Found worksheet entry: mpty.kicad_wks at line: 16
+02-12 19:31:42 archive_project.archive_project 146:Full worksheet path: /Users/jaimy/projects/panimpex_metreco/pcb/P_sensor v10.0/mpty.kicad_wks
+02-12 19:31:42 archive_project.archive_project 149:Worksheet file does not exist
+02-12 19:31:42 archive_project.archive_project 144:Found worksheet entry:  at line: 26
+02-12 19:31:42 archive_project.archive_project 146:Full worksheet path: /Users/jaimy/projects/panimpex_metreco/pcb/P_sensor v10.0
+02-12 19:31:42 archive_project.archive_project 149:Worksheet file does not exist
+02-12 19:31:42 archive_project.action_archive_project 205:Starting 3D model archiving
+02-12 19:31:42 archive_project.archive_project 537:Starting to archive 3D models
+02-12 19:31:42 archive_project.archive_project 549:KISYS3DMOD path: /Users/jaimy/projects/kicad_libs/kicad-packages3D
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R10
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R9
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: N2
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R4
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: J1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/Molex_USB_Mini_Horizontal_Through_Hole_54819-0519.stp
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/Molex_USB_Mini_Horizontal_Through_Hole_54819-0519.stp
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23-5.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/SOT-23-5.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C7
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.wrl
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: N1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R2
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R3
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R5
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R8
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: Q1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/SOT-23.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: Q3
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/SOT-23.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R6
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: R7
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/R_0805_2012Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C5
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C6
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U$7
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/SSOP-20_5.3x7.2mm_P0.65mm.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/SSOP-20_5.3x7.2mm_P0.65mm.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: CR1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: GREEN1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: JP1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: LDO1
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/SOT-23-5.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/SOT-23-5.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C4
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C2
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_0603_1608Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: ONOFF1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: KAL1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: SENSOR1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: Q4
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U$1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U$3
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U$4
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: U$5
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: C3
+02-12 19:31:42 archive_project.archive_project 577:Trying to copy: ${KIPRJMOD}/shapes3D/C_1812_4532Metric.step
+02-12 19:31:42 archive_project.archive_project 631:Remapping: ${KIPRJMOD}/shapes3D/C_1812_4532Metric.step
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: JP3
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: RADIO1
+02-12 19:31:42 archive_project.archive_project 566:Getting 3D models for footprint of: RED1

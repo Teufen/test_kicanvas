@@ -1,0 +1,7 @@
+### Module positions - created on maandag 02 maart 2020 om 15:13:34 ###
+### Printed by Pcbnew version kicad (5.1.2-1)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                   PosX       PosY       Rot  Side
+N2        Housing   logopanimpex_700dpi  -172.7200   -63.2460  180.0000  bottom
+## End

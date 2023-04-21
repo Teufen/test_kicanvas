@@ -1,0 +1,881 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16774 9281
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	11050 6450 11050 6350
+Text Label 11050 6450 3    70   ~ 0
+GND
+Wire Wire Line
+	15400 5250 16100 5250
+Text Label 16100 5250 2    70   ~ 0
+GND
+Wire Wire Line
+	8300 2850 8300 2450
+Text Label 8300 2450 3    70   ~ 0
+GND
+Text Label 15350 1300 1    70   ~ 0
+GND
+Text Label 14900 1300 1    70   ~ 0
+GND
+Wire Wire Line
+	3350 2950 3150 2950
+Text Label 3350 2950 0    70   ~ 0
+GND
+Wire Wire Line
+	3350 2450 3150 2450
+Text Label 3350 2450 0    70   ~ 0
+GND
+Wire Wire Line
+	15550 2400 16050 2400
+Text Label 15550 2400 0    70   ~ 0
+GND
+Wire Wire Line
+	11450 6250 11450 5950
+Text Label 11450 6250 3    70   ~ 0
+GND
+Wire Wire Line
+	15800 1300 15800 1000
+Text Label 15800 1300 1    70   ~ 0
+GND
+Wire Wire Line
+	12350 6250 12350 5950
+Text Label 12350 6250 1    70   ~ 0
+GND
+Wire Wire Line
+	16200 1300 16200 1000
+Text Label 16200 1300 1    70   ~ 0
+GND
+Wire Wire Line
+	15900 4550 15400 4550
+Text Label 15600 4550 0    70   ~ 0
+GND
+Wire Wire Line
+	2000 6900 2600 6900
+Text Label 2000 6900 2    70   ~ 0
+GND
+Wire Wire Line
+	2000 7300 2600 7300
+Text Label 2000 7300 0    70   ~ 0
+GND
+Wire Wire Line
+	11550 2850 11550 2550
+Text Label 11550 2850 0    70   ~ 0
+VCCRADIO
+Wire Wire Line
+	14900 700  14900 300 
+Text Label 14900 300  3    70   ~ 0
+VCCRADIO
+Wire Wire Line
+	2000 7200 2600 7200
+Text Label 2000 7200 0    70   ~ 0
+VCCRADIO
+Wire Wire Line
+	13200 1950 13200 2150
+Text Label 13200 1950 0    70   ~ 0
+VCC
+Wire Wire Line
+	7650 6750 7850 6750
+Wire Wire Line
+	7650 6350 7850 6350
+Wire Wire Line
+	7650 6750 7650 6350
+Text Label 7650 6650 1    70   ~ 0
+VCC
+Text Label 7650 6650 1    70   ~ 0
+VCC
+Wire Wire Line
+	15400 5150 16100 5150
+Text Label 16100 5150 2    70   ~ 0
+VCC
+Wire Wire Line
+	7900 2850 7900 2450
+Text Label 7900 2450 3    70   ~ 0
+VCC
+Wire Wire Line
+	15350 700  15350 300 
+Text Label 15350 300  3    70   ~ 0
+VCC
+Wire Wire Line
+	8900 3850 9300 3850
+Text Label 9300 3850 0    70   ~ 0
+VCC
+Wire Wire Line
+	13350 5450 12950 5450
+Text Label 13350 5450 0    70   ~ 0
+VCC
+Wire Wire Line
+	1650 4250 2050 4250
+Text Label 1650 4250 0    70   ~ 0
+VCC
+Wire Wire Line
+	3550 4250 3050 4250
+Text Label 3550 4250 2    70   ~ 0
+VCC
+Wire Wire Line
+	1650 4950 2050 4950
+Text Label 1650 4950 0    70   ~ 0
+VCC
+Wire Wire Line
+	3550 4950 3050 4950
+Text Label 3550 4950 2    70   ~ 0
+VCC
+Text Label 16200 300  3    70   ~ 0
+VCC
+Text Label 15800 300  3    70   ~ 0
+VCC
+Wire Wire Line
+	13200 2850 13200 2550
+Text Label 13200 2850 0    70   ~ 0
+VCCSENSOR
+Wire Wire Line
+	15550 2200 16050 2200
+Text Label 15550 2200 0    70   ~ 0
+VCCSENSOR
+Wire Wire Line
+	11250 2350 11350 2350
+Wire Wire Line
+	12900 2350 13000 2350
+Wire Wire Line
+	10650 2350 10850 2350
+Text Label 10650 2350 2    70   ~ 0
+RADIOON
+Wire Wire Line
+	9300 4450 8900 4450
+Text Label 9300 4450 0    70   ~ 0
+RADIOON
+Wire Wire Line
+	12300 2350 12500 2350
+Text Label 12300 2350 2    70   ~ 0
+SENSORON
+Wire Wire Line
+	7300 3450 6900 3450
+Text Label 6900 3450 2    70   ~ 0
+SENSORON
+Wire Wire Line
+	15550 2500 16050 2500
+Text Label 15550 2500 0    70   ~ 0
+S+
+Wire Wire Line
+	6900 4250 7300 4250
+Text Label 6900 4250 2    70   ~ 0
+S+
+Wire Wire Line
+	15550 2300 16050 2300
+Text Label 15550 2300 0    70   ~ 0
+S-
+Wire Wire Line
+	6900 3650 7300 3650
+Text Label 6900 3650 2    70   ~ 0
+S-
+Wire Wire Line
+	11050 5450 11450 5450
+Wire Wire Line
+	11450 5450 11650 5450
+Wire Wire Line
+	11650 5450 11750 5450
+Wire Wire Line
+	11750 5650 11650 5650
+Wire Wire Line
+	11650 5650 11650 5450
+Wire Wire Line
+	11450 5450 11450 5650
+Connection ~ 11650 5450
+Connection ~ 11450 5450
+Text Label 11050 5450 0    70   ~ 0
+VBATT
+Wire Wire Line
+	15900 4650 15400 4650
+Text Label 15600 4650 0    70   ~ 0
+VBATT
+Wire Wire Line
+	11550 1950 11550 2150
+Text Label 11550 1950 0    70   ~ 0
+VBATT
+Wire Wire Line
+	15400 5350 16100 5350
+Text Label 16100 5350 2    70   ~ 0
+XRES
+Wire Wire Line
+	8300 5050 8300 5450
+Text Label 8300 5350 1    70   ~ 0
+XRES
+Wire Wire Line
+	8650 6350 8350 6350
+Wire Wire Line
+	8350 6350 8150 6350
+Connection ~ 8350 6350
+Text Label 8650 6350 0    70   ~ 0
+XTAL1
+Wire Wire Line
+	15400 5450 16100 5450
+Text Label 16100 5450 2    70   ~ 0
+XTAL1
+Wire Wire Line
+	8900 3450 9300 3450
+Text Label 9300 3450 0    70   ~ 0
+XTAL1
+Wire Wire Line
+	8650 6750 8350 6750
+Wire Wire Line
+	8350 6750 8150 6750
+Connection ~ 8350 6750
+Text Label 8650 6750 0    70   ~ 0
+XTAL0
+Wire Wire Line
+	15400 5550 16100 5550
+Text Label 16100 5550 2    70   ~ 0
+XTAL0
+Wire Wire Line
+	8900 3250 9300 3250
+Text Label 9300 3250 0    70   ~ 0
+XTAL0
+Wire Wire Line
+	1850 2450 2150 2450
+Text Label 1850 2450 2    70   ~ 0
+GREENLED
+Wire Wire Line
+	9300 4050 8900 4050
+Text Label 9300 4050 0    70   ~ 0
+GREENLED
+Wire Wire Line
+	1850 2950 2150 2950
+Text Label 1850 2950 2    70   ~ 0
+REDLED
+Wire Wire Line
+	9300 3650 8900 3650
+Text Label 9300 3650 0    70   ~ 0
+REDLED
+Wire Wire Line
+	6900 3250 7300 3250
+Text Label 6900 3250 2    70   ~ 0
+TORADIO
+Wire Wire Line
+	2000 7400 2600 7400
+Text Label 2000 7400 0    70   ~ 0
+TORADIO
+Wire Wire Line
+	9300 4650 8900 4650
+Text Label 9300 4650 0    70   ~ 0
+ONOFF
+Wire Wire Line
+	1650 4450 2050 4450
+Text Label 1650 4450 0    70   ~ 0
+ONOFF
+Wire Wire Line
+	3550 4450 3050 4450
+Text Label 3550 4450 2    70   ~ 0
+ONOFF
+Wire Wire Line
+	9300 4250 8900 4250
+Text Label 9300 4250 0    70   ~ 0
+KAL
+Wire Wire Line
+	1650 5150 2050 5150
+Text Label 1650 5150 0    70   ~ 0
+KAL
+Wire Wire Line
+	3550 5150 3050 5150
+Text Label 3550 5150 2    70   ~ 0
+KAL
+Wire Wire Line
+	6900 4450 7300 4450
+Text Label 6900 4450 2    70   ~ 0
+ANBATT
+Wire Wire Line
+	11050 5850 11050 5950
+Text Label 11050 5950 2    70   ~ 0
+ANBATT
+Wire Wire Line
+	2550 2950 2850 2950
+Wire Wire Line
+	2550 2450 2850 2450
+Wire Wire Line
+	2000 7100 2600 7100
+Text Label 2000 7100 0    70   ~ 0
+SDO_A
+Wire Wire Line
+	6900 3850 7300 3850
+Text Label 6900 3850 2    70   ~ 0
+SDO_A
+$Comp
+L archive:P_sensor_v10.0-eagle-import_A3L-LOC #FRAME1
+U 1 1 7D0788B5
+P 900 8400
+F 0 "#FRAME1" H 900 8400 50  0001 C CNN
+F 1 "A3L-LOC" H 900 8400 50  0001 C CNN
+F 2 "" H 900 8400 50  0001 C CNN
+F 3 "" H 900 8400 50  0001 C CNN
+	1    900  8400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15800 300  15800 700 
+Wire Wire Line
+	15350 1000 15350 1300
+Wire Wire Line
+	16200 300  16200 700 
+Wire Wire Line
+	14900 1000 14900 1300
+NoConn ~ 2600 7000
+NoConn ~ 7900 5050
+NoConn ~ 15250 2200
+NoConn ~ 15250 2300
+NoConn ~ 15250 2400
+NoConn ~ 15250 2500
+NoConn ~ 4600 900 
+NoConn ~ 4600 1000
+NoConn ~ 4600 1100
+Text Label 4700 800  1    50   ~ 0
+GND
+Wire Wire Line
+	6000 1400 6100 1400
+Text Label 6100 1400 0    50   ~ 0
+VBATT
+Wire Wire Line
+	5050 1650 5050 1600
+Wire Wire Line
+	5050 1600 5200 1600
+Wire Wire Line
+	5050 1950 5050 2000
+$Comp
+L archive:power_GND #PWR0101
+U 1 1 5CFD66E8
+P 5050 2000
+F 0 "#PWR0101" H 5050 1750 50  0001 C CNN
+F 1 "GND" H 5055 1827 50  0000 C CNN
+F 2 "" H 5050 2000 50  0001 C CNN
+F 3 "" H 5050 2000 50  0001 C CNN
+	1    5050 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 2000 5600 2000
+Wire Wire Line
+	5600 2000 5600 1800
+Connection ~ 5050 2000
+Text Notes 5250 2400 0    50   ~ 0
+10k = 100 mA\n5k  = 200 mA\n2k  = 500 mA\n1k  = 1000 mA
+$Comp
+L archive:power_GND #PWR0102
+U 1 1 5CFFC1CB
+P 4950 800
+F 0 "#PWR0102" H 4950 550 50  0001 C CNN
+F 1 "GND" H 4955 627 50  0000 C CNN
+F 2 "" H 4950 800 50  0001 C CNN
+F 3 "" H 4950 800 50  0001 C CNN
+	1    4950 800 
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4600 1200 4650 1200
+Wire Wire Line
+	4950 1200 4950 1100
+Wire Wire Line
+	4950 1200 5550 1200
+Connection ~ 4950 1200
+Wire Wire Line
+	7300 4650 6900 4650
+Text Label 6900 4650 2    50   ~ 0
+BAT_STAT
+Wire Wire Line
+	6000 1600 6100 1600
+Text Label 6100 1600 0    50   ~ 0
+BAT_STAT
+$Comp
+L archive:power_PWR_FLAG #FLG0101
+U 1 1 5D23F6AD
+P 5550 1200
+F 0 "#FLG0101" H 5550 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 5550 1373 50  0000 C CNN
+F 2 "" H 5550 1200 50  0001 C CNN
+F 3 "~" H 5550 1200 50  0001 C CNN
+	1    5550 1200
+	1    0    0    -1  
+$EndComp
+Connection ~ 5550 1200
+Wire Wire Line
+	5550 1200 5600 1200
+Wire Wire Line
+	4600 800  4950 800 
+Connection ~ 4950 800 
+$Comp
+L archive:power_PWR_FLAG #FLG0102
+U 1 1 5D2444C0
+P 4950 800
+F 0 "#FLG0102" H 4950 875 50  0001 C CNN
+F 1 "PWR_FLAG" V 4950 928 50  0000 L CNN
+F 2 "" H 4950 800 50  0001 C CNN
+F 3 "~" H 4950 800 50  0001 C CNN
+	1    4950 800 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6850 1450 6850 1550
+Wire Wire Line
+	6850 1150 6850 1050
+Text Label 6850 1050 0    50   ~ 0
+VCC
+Text Label 6850 1550 0    50   ~ 0
+BAT_STAT
+$Comp
+L archive:P_sensor_v10.0-eagle-import_PNP-TRANSISTOR_SOT23 Q3
+U 1 1 E5E66FE7
+P 13100 2350
+F 0 "Q3" H 12700 2650 59  0000 L BNN
+F 1 "BC858C" H 12700 2550 59  0000 L BNN
+F 2 "P_sensor v10.0:SOT23" H 13100 2350 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/1911718.pdf" H 13100 2350 50  0001 C CNN
+F 4 "BC858C-7-F" H 13100 2350 50  0001 C CNN "MPN"
+F 5 "1773611" H 13100 2350 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 13100 2350 50  0001 C CNN "Supplier"
+	1    13100 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R3
+U 1 1 9E2B9E74
+P 11050 2350
+F 0 "R3" H 10900 2409 59  0000 L BNN
+F 1 "51R" H 10900 2220 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 11050 2350 50  0001 C CNN
+F 3 "" H 11050 2350 50  0001 C CNN
+	1    11050 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R5
+U 1 1 784D08DD
+P 12700 2350
+F 0 "R5" H 12550 2409 59  0000 L BNN
+F 1 "51R" H 12550 2220 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 12700 2350 50  0001 C CNN
+F 3 "" H 12700 2350 50  0001 C CNN
+	1    12700 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R6
+U 1 1 3081A8FE
+P 11050 5650
+F 0 "R6" H 10900 5709 59  0000 L BNN
+F 1 "1M" H 10900 5520 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 11050 5650 50  0001 C CNN
+F 3 "" H 11050 5650 50  0001 C CNN
+	1    11050 5650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R7
+U 1 1 62F25771
+P 11050 6150
+F 0 "R7" H 10900 6209 59  0000 L BNN
+F 1 "1M" H 10900 6020 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 11050 6150 50  0001 C CNN
+F 3 "" H 11050 6150 50  0001 C CNN
+	1    11050 6150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 C5
+U 1 1 4D691A2E
+P 7950 6350
+F 0 "C5" H 8010 6365 59  0000 L BNN
+F 1 "12pF" H 8010 6165 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 7950 6350 50  0001 C CNN
+F 3 "" H 7950 6350 50  0001 C CNN
+	1    7950 6350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 C6
+U 1 1 86DDAD7C
+P 7950 6750
+F 0 "C6" H 8010 6765 59  0000 L BNN
+F 1 "100pF" H 8010 6565 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 7950 6750 50  0001 C CNN
+F 3 "" H 7950 6750 50  0001 C CNN
+	1    7950 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 C1
+U 1 1 111948E0
+P 15350 800
+F 0 "C1" H 15410 815 59  0000 L BNN
+F 1 "100 nF" H 15410 615 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 15350 800 50  0001 C CNN
+F 3 "" H 15350 800 50  0001 C CNN
+	1    15350 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 CR1
+U 1 1 3C1E82E9
+P 14900 800
+F 0 "CR1" H 14960 815 59  0000 L BNN
+F 1 "100 nF" H 14960 615 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 14900 800 50  0001 C CNN
+F 3 "" H 14900 800 50  0001 C CNN
+	1    14900 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R2
+U 1 1 3B0CF7C4
+P 2350 2950
+F 0 "R2" H 2200 3009 59  0000 L BNN
+F 1 "51R" H 2200 2820 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 2350 2950 50  0001 C CNN
+F 3 "" H 2350 2950 50  0001 C CNN
+	1    2350 2950
+	-1   0    0    1   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_R-EU_M0805 R8
+U 1 1 9E3F91F2
+P 2350 2450
+F 0 "R8" H 2200 2509 59  0000 L BNN
+F 1 "51R" H 2200 2320 59  0000 L BNN
+F 2 "P_sensor v10.0:M0805" H 2350 2450 50  0001 C CNN
+F 3 "" H 2350 2450 50  0001 C CNN
+	1    2350 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_PINHD-1X2 JP1
+U 1 1 830DC61C
+P 15300 4550
+F 0 "JP1" H 15050 4775 59  0000 L BNN
+F 1 "0°" H 15050 4350 59  0000 L BNN
+F 2 "P_sensor v10.0:1X02" H 15300 4550 50  0001 C CNN
+F 3 "" H 15300 4550 50  0001 C CNN
+	1    15300 4550
+	-1   0    0    1   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_XC6221A331MR LDO1
+U 1 1 54BE8814
+P 12350 5550
+F 0 "LDO1" H 12350 5900 50  0000 C CNN
+F 1 "XC6221B331MR" H 12350 5800 50  0000 C CNN
+F 2 "P_sensor v10.0:SOT23-5L" H 12350 5550 50  0001 C CNN
+F 3 "https://www.torexsemi.com/file/xc6221/XC6221.pdf" H 12350 5550 50  0001 C CNN
+F 4 "XC6221B331MR-G" H 12350 5550 50  0001 C CNN "MPN"
+F 5 "865-XC6221B331MR-G" H 12350 5550 50  0001 C CNN "Ordercode"
+F 6 "Mouser" H 12350 5550 50  0001 C CNN "Supplier"
+	1    12350 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 C4
+U 1 1 73C4B5EE
+P 11450 5750
+F 0 "C4" H 11510 5765 59  0000 L BNN
+F 1 "1 uF" H 11510 5565 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 11450 5750 50  0001 C CNN
+F 3 "" H 11450 5750 50  0001 C CNN
+	1    11450 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_C-EUC0603 C2
+U 1 1 F71C68D3
+P 15800 800
+F 0 "C2" H 15860 815 59  0000 L BNN
+F 1 "1 uF" H 15860 615 59  0000 L BNN
+F 2 "P_sensor v10.0:C0603" H 15800 800 50  0001 C CNN
+F 3 "" H 15800 800 50  0001 C CNN
+	1    15800 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_3ESL-XXX ONOFF1
+U 1 1 D76C08AE
+P 2550 4350
+F 0 "ONOFF1" H 2550 4350 50  0001 C CNN
+F 1 "3ESL-XXX" H 2550 4350 50  0001 C CNN
+F 2 "P_sensor v10.0:3E" H 2550 4350 50  0001 C CNN
+F 3 "" H 2550 4350 50  0001 C CNN
+	1    2550 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_3ESL-XXX KAL1
+U 1 1 267E3A53
+P 2550 5050
+F 0 "KAL1" H 2550 5050 50  0001 C CNN
+F 1 "3ESL-XXX" H 2550 5050 50  0001 C CNN
+F 2 "P_sensor v10.0:3E" H 2550 5050 50  0001 C CNN
+F 3 "" H 2550 5050 50  0001 C CNN
+	1    2550 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_85SMX Q4
+U 1 1 D2F4ADB6
+P 8350 6550
+F 0 "Q4" H 8250 6640 59  0000 L BNN
+F 1 "32kHz" H 8250 6400 59  0000 L BNN
+F 2 "P_sensor v10.0:85SMX" H 8350 6550 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2175875.pdf" H 8350 6550 50  0001 C CNN
+F 4 "LFXTAL016178" H 8350 6550 50  0001 C CNN "MPN"
+F 5 "2449396" H 8350 6550 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 8350 6550 50  0001 C CNN "Supplier"
+	1    8350 6550
+	0    1    1    0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_CPOL-EUSMCC C3
+U 1 1 82E50CE2
+P 16200 800
+F 0 "C3" H 16245 819 59  0000 L BNN
+F 1 "33µF" H 16245 619 59  0000 L BNN
+F 2 "P_sensor v10.0:SMC_C" H 16200 800 50  0001 C CNN
+F 3 "" H 16200 800 50  0001 C CNN
+	1    16200 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_PINHD-1X5 JP3
+U 1 1 48CD7B62
+P 15500 5350
+F 0 "JP3" H 15250 5675 59  0000 L BNN
+F 1 "PINHD-1X5" H 15250 4950 59  0000 L BNN
+F 2 "P_sensor v10.0:1X05" H 15500 5350 50  0001 C CNN
+F 3 "" H 15500 5350 50  0001 C CNN
+	1    15500 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_ERA900TS RADIO1
+U 1 1 F4A49419
+P 2900 7200
+F 0 "RADIO1" H 2800 7600 59  0000 L BNN
+F 1 "ERA900TS" H 2800 6800 59  0000 L BNN
+F 2 "P_sensor v10.0:ERAX00TS" H 2900 7200 50  0001 C CNN
+F 3 "" H 2900 7200 50  0001 C CNN
+	1    2900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_LED_W_KSMJ GREEN1
+U 1 1 0C1D5EA4
+P 3050 2450
+F 0 "GREEN1" V 2854 2332 59  0000 L BNN
+F 1 "KP-3216SGC_W_KSMJ01/06" H 3050 2450 50  0001 C CNN
+F 2 "P_sensor v10.0:CHIPLED_1206_WGUIDE" H 3050 2450 50  0001 C CNN
+F 3 "" H 3050 2450 50  0001 C CNN
+	1    3050 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_LED_W_KSMJ RED1
+U 1 1 17188469
+P 3050 2950
+F 0 "RED1" V 2854 2832 59  0000 L BNN
+F 1 "KP-3216EC_W_KSMJ01/06" H 3050 2950 50  0001 C CNN
+F 2 "P_sensor v10.0:CHIPLED_1206_WGUIDE" H 3050 2950 50  0001 C CNN
+F 3 "" H 3050 2950 50  0001 C CNN
+	1    3050 2950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_M20-788-0446 SENSOR1
+U 1 1 BBA8967E
+P 15350 2400
+F 0 "SENSOR1" H 15100 2725 59  0000 L BNN
+F 1 "M20-788-0446" H 15100 2100 59  0000 L BNN
+F 2 "P_sensor v10.0:M20-7890446" H 15350 2400 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2368211.pdf" H 15350 2400 50  0001 C CNN
+F 4 "M20-7880446" H 15350 2400 50  0001 C CNN "MPN"
+F 5 "7992130" H 15350 2400 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 15350 2400 50  0001 C CNN "Supplier"
+	1    15350 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_CY8C27243 U$7
+U 1 1 9C312127
+P 8300 4150
+F 0 "U$7" H 8550 3300 59  0000 L BNN
+F 1 "CY8C27243" H 8550 3200 59  0000 L BNN
+F 2 "P_sensor v10.0:SSOP20" H 8300 4150 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2081968.pdf" H 8300 4150 50  0001 C CNN
+F 4 "CY8C27243-24PVXI" H 8300 4150 50  0001 C CNN "MPN"
+F 5 "1267185" H 8300 4150 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 8300 4150 50  0001 C CNN "Supplier"
+	1    8300 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:P_sensor_v10.0-eagle-import_PNP-TRANSISTOR_SOT23 Q1
+U 1 1 6BFDE7DC
+P 11450 2350
+F 0 "Q1" H 11050 2650 59  0000 L BNN
+F 1 "BC858C" H 11050 2550 59  0000 L BNN
+F 2 "P_sensor v10.0:SOT23" H 11450 2350 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/1911718.pdf" H 11450 2350 50  0001 C CNN
+F 4 "BC858C-7-F" H 11450 2350 50  0001 C CNN "MPN"
+F 5 "1773611" H 11450 2350 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 11450 2350 50  0001 C CNN "Supplier"
+	1    11450 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Mechanical_Housing N1
+U 1 1 5CF59C91
+P 850 650
+F 0 "N1" H 1003 684 50  0000 L CNN
+F 1 "Housing" H 1003 593 50  0000 L CNN
+F 2 "user_dwgs:PCB_CENTER" H 900 700 50  0001 C CNN
+F 3 "~" H 900 700 50  0001 C CNN
+	1    850  650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Battery_Management_MCP73832-2-OT U1
+U 1 1 5CFB0E5B
+P 5600 1500
+F 0 "U1" H 5750 1100 50  0000 C CNN
+F 1 "MCP73832-2-OT" H 6000 1000 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5650 1250 50  0001 L CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 5450 1450 50  0001 C CNN
+F 4 "MCP73832T-2ACI/OT" H 5600 1500 50  0001 C CNN "MPN"
+F 5 "1332159" H 5600 1500 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 5600 1500 50  0001 C CNN "Supplier"
+	1    5600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Device_R R1
+U 1 1 5CFCF553
+P 5050 1800
+F 0 "R1" H 5120 1846 50  0000 L CNN
+F 1 "2k" H 5120 1755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4980 1800 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 5050 1800 50  0001 C CNN
+F 4 "CRCW06032K00FKEA" H 5050 1800 50  0001 C CNN "MPN"
+F 5 "1469764" H 5050 1800 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 5050 1800 50  0001 C CNN "Supplier"
+	1    5050 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Device_C C7
+U 1 1 5CFDA7E8
+P 4950 950
+F 0 "C7" H 5065 996 50  0000 L CNN
+F 1 "1uF" H 5065 905 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4988 800 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2356129.pdf" H 4950 950 50  0001 C CNN
+F 4 "GCJ188R71E105KA01D" H 4950 950 50  0001 C CNN "MPN"
+F 5 "2781410" H 4950 950 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 4950 950 50  0001 C CNN "Supplier"
+	1    4950 950 
+	-1   0    0    1   
+$EndComp
+$Comp
+L archive:Connector_Generic_Conn_01x05 J1
+U 1 1 5D00A03D
+P 4400 1000
+F 0 "J1" H 4500 550 50  0000 C CNN
+F 1 "Conn_01x05" H 4550 650 50  0000 C CNN
+F 2 "qs_connectors:Molex_USB_Mini_Horizontal_Through_Hole_54819-0519" H 4400 1000 50  0001 C CNN
+F 3 "https://datasheet.octopart.com/54819-0519-Molex-datasheet-17741876.pdf~" H 4400 1000 50  0001 C CNN
+F 4 "54819-0519" H 4400 1000 50  0001 C CNN "MPN"
+F 5 "9786465" H 4400 1000 50  0001 C CNN "Ordercode"
+F 6 "Farnell" H 4400 1000 50  0001 C CNN "Supplier"
+	1    4400 1000
+	-1   0    0    1   
+$EndComp
+$Comp
+L archive:Device_R R4
+U 1 1 5D097E95
+P 6850 1300
+F 0 "R4" H 6920 1346 50  0000 L CNN
+F 1 "NC" H 6920 1255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6780 1300 50  0001 C CNN
+F 3 "~" H 6850 1300 50  0001 C CNN
+	1    6850 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Mechanical_Housing N2
+U 1 1 5D121ADF
+P 15450 6550
+F 0 "N2" H 15603 6584 50  0000 L CNN
+F 1 "Housing" H 15603 6493 50  0000 L CNN
+F 2 "logos:logopanimpex_700dpi" H 15500 6600 50  0001 C CNN
+F 3 "~" H 15500 6600 50  0001 C CNN
+	1    15450 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Device_R R9
+U 1 1 5E4AF934
+P 4650 1450
+F 0 "R9" H 4720 1496 50  0000 L CNN
+F 1 "2.7k" H 4720 1405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4580 1450 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2167052.pdf?_ga=2.165077567.1666826893.1581444713-1573387845.1581444713" H 4650 1450 50  0001 C CNN
+F 4 "SMD Chip Resistor, 0603 [1608 Metric], 2.7 kohm, RC Series, 75 V, Thick Film, 100 mW" H 4650 1450 50  0001 C CNN "Technology"
+F 5 "YAGEO" H 4650 1450 50  0001 C CNN "Manufacturer"
+F 6 "9238530 (Farnell)" H 4650 1450 50  0001 C CNN "Order Code"
+F 7 "RC0603FR-072K7L" H 4650 1450 50  0001 C CNN "MPN"
+	1    4650 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Device_R R10
+U 1 1 5E4AFEFF
+P 4650 1850
+F 0 "R10" H 4720 1896 50  0000 L CNN
+F 1 "3.9k" H 4720 1805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4580 1850 50  0001 C CNN
+F 3 "http://www.farnell.com/datasheets/2860681.pdf?_ga=2.126150029.1666826893.1581444713-1573387845.1581444713" H 4650 1850 50  0001 C CNN
+F 4 "SMD Chip Resistor, 0603 [1608 Metric], 3.9 kohm, MCWR Series, 75 V, Thick Film, 100 mW" H 4650 1850 50  0001 C CNN "Technology"
+F 5 "YAGEO" H 4650 1850 50  0001 C CNN "Manufacturer"
+F 6 "2447363 (Farnell)" H 4650 1850 50  0001 C CNN "Order Code"
+F 7 "MCWR06X3901FTL" H 4650 1850 50  0001 C CNN "MPN"
+	1    4650 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 1600 4650 1700
+Wire Wire Line
+	4650 1300 4650 1200
+Connection ~ 4650 1200
+Wire Wire Line
+	4650 1200 4950 1200
+Wire Wire Line
+	4650 2000 4650 2100
+$Comp
+L archive:power_GND #PWR0103
+U 1 1 5E4BBFF2
+P 4650 2100
+F 0 "#PWR0103" H 4650 1850 50  0001 C CNN
+F 1 "GND" H 4655 1927 50  0000 C CNN
+F 2 "" H 4650 2100 50  0001 C CNN
+F 3 "" H 4650 2100 50  0001 C CNN
+	1    4650 2100
+	1    0    0    -1  
+$EndComp
+Text Label 4650 1650 2    50   ~ 0
+VUSB
+Wire Wire Line
+	7300 4050 6900 4050
+Text Label 6900 4050 2    70   ~ 0
+VUSB
+$EndSCHEMATC

@@ -1,0 +1,38 @@
+### Module positions - created on maandag 02 maart 2020 om 15:13:34 ###
+### Printed by Pcbnew version kicad (5.1.2-1)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                 PosX       PosY       Rot  Side
+C1        100_nF         C0603               184.5211   -72.1536    0.0000  top
+C2        1_uF           C0603               181.4511   -72.6436  270.0000  top
+C3        33µF          SMC_C               180.7011   -97.6036  270.0000  top
+C4        1_uF           C0603               186.9011   -92.7536  180.0000  top
+C5        12pF           C0603               178.8911   -72.5036    0.0000  top
+C6        100pF          C0603               179.0511   -79.7536    0.0000  top
+C7        1uF            C_0603_1608Metric   181.1020   -44.7040    0.0000  top
+CR1       100_nF         C0603               163.5011   -49.6536  180.0000  top
+KAL1      3ESL-XXX       3E                  172.1011   -86.4036   90.0000  top
+LDO1      XC6221B331MR   SOT23-5L            185.5011   -95.3136  270.0000  top
+N1        Housing        PCB_CENTER          172.3390   -88.1650    0.0000  top
+ONOFF1    3ESL-XXX       3E                  160.0911   -86.3836  270.0000  top
+Q1        BC858C         SOT23               161.0360   -45.9740  270.0000  top
+Q3        BC858C         SOT23               163.9811   -95.8636  270.0000  top
+Q4        32kHz          85SMX               176.8511   -76.0936  180.0000  top
+R1        2k             R_0603_1608Metric   181.1020   -50.0380    0.0000  top
+R2        51R            M0805               182.6311   -90.6036    0.0000  top
+R3        51R            M0805               157.7340   -46.9900   90.0000  top
+R4        NC             R_0603_1608Metric   168.6560   -72.8980  180.0000  top
+R5        51R            M0805               159.8711   -94.9036    0.0000  top
+R6        1M             M0805               190.9111   -82.2536    0.0000  top
+R7        1M             M0805               190.6511   -79.1336  270.0000  top
+R8        51R            M0805               186.8111   -90.6536  180.0000  top
+R9        2.7k           R_0603_1608Metric   163.5760   -72.6000  180.0000  top
+R10       3.9k           R_0603_1608Metric   162.0520   -74.1680  180.0000  top
+RADIO1    ERA900TS       ERAX00TS            173.4011   -62.0036  180.0000  top
+U$1                      DIM_SENSOR          148.5011  -105.0036    0.0000  top
+U$3                      FIDUCIAL_PAGE       185.1011  -103.1036    0.0000  top
+U$4                      FIDUCIAL_PAGE       164.2011   -44.4036    0.0000  top
+U$5                      FIDUCIAL_PAGE       191.7011   -44.6036    0.0000  top
+U$7       CY8C27243      SSOP20              185.6911   -77.4136    0.0000  top
+U1        MCP73832-2-OT  SOT-23-5            181.3560   -47.4980  180.0000  top
+## End
